@@ -29,7 +29,7 @@ A simple console based Course Registration System written in C++
 ### Compile & Run (g++)
 
 ```bash
-g++ main.cpp -o CourseRegSystem
+g++ main.cpp source.cpp -o CourseRegSystem
 ./CourseRegSystem
 ```
 
